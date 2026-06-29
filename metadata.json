@@ -1,0 +1,6 @@
+{
+  "name": "ExamPrep AI",
+  "description": "An advanced AI-powered Exam Preparation Platform featuring custom study plans, notes generators, PYQ solvers, mock tests, and smart visual analytics.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
